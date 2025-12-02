@@ -1,5 +1,5 @@
 # class-meter-app
-BunkWell is an intelligent Android application designed to help students track their college/school attendance effortlessly. With smart bunk prediction algorithms and an intuitive interface, it takes the stress out of attendance management.
+ClassMeter is an intelligent Android application designed to help students track their college/school attendance effortlessly. With smart bunk prediction algorithms and an intuitive interface, it takes the stress out of attendance management.
 
 🎯 Key Features:
 
